@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/lucas-souza-aa96981a7/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge)](https://github.com/CosmoSouza)
 [![Portfólio](https://img.shields.io/badge/Portfólio-1e90ff?style=for-the-badge)](https://github.com/CosmoSouza)
-[![Alura](https://img.shields.io/badge/Alura-0066cc?style=for-the-badge)](https://cursos.alura.com.br/user/cosmosouza)
+[![UDEMY](https://img.shields.io/badge/UDEMY-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/lucas-cosmo-de-souza/)
 [![Vitrine Dev](https://img.shields.io/badge/VitrineDev-00c853?style=for-the-badge)](https://vitrine.dev/CosmoSouza)
 
 ---
