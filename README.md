@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 align="center">👨‍💻 Lucas Souza</h1>
 
-<!--
-**CosmoSouza/CosmoSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><strong>Desenvolvedor em formação | Foco em Java e Spring Boot</strong></p>
 
-Here are some ideas to get you started:
+<p align="center">🎯 Estudante apaixonado por tecnologia, em transição de carreira e buscando oportunidade como <strong>Dev Júnior</strong> ou <strong>Estagiário</strong>. Comprometido com evolução contínua nas áreas de <strong>Java, Spring Boot</strong> e <strong>Lógica de Programação</strong>. 🚀</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📬 Contatos e Perfis
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/lucas-souza-aa96981a7/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge)](https://github.com/CosmoSouza)
+[![Portfólio](https://img.shields.io/badge/Portfólio-1e90ff?style=for-the-badge)](https://github.com/CosmoSouza)
+[![Alura](https://img.shields.io/badge/Alura-0066cc?style=for-the-badge)](https://cursos.alura.com.br/user/cosmosouza)
+[![Vitrine Dev](https://img.shields.io/badge/VitrineDev-00c853?style=for-the-badge)](https://vitrine.dev/CosmoSouza)
+
+---
+
+### 🎓 Formação Acadêmica
+
+🎓 **Análise e Desenvolvimento de Sistemas** – Unisociesc *(Em andamento)*
+
+---
+
+### 📚 O que estou estudando:
+
+- 💡 Lógica de programação  
+- ☕ Java e C++  
+- 🧠 Estruturas de dados e algoritmos  
+- 🌐 Spring Boot  
+- 🧪 Testes com JUnit  
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Visualg](https://img.shields.io/badge/Visualg-blue?style=for-the-badge)
+
+---
+
+### 📈 Estatísticas GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CosmoSouza&show_icons=true&theme=radical&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CosmoSouza&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+---
+
+### 🚀 Repositórios em destaque
+
+- [🔐 Hotel Check-in/Checkout com Java](https://github.com/CosmoSouza/Hotel_Checkin_Checkout)
+- [🧠 Aulas de Lógica com Visualg](https://github.com/CosmoSouza/Aulas-Lógicas-de-Programação)
+- [🛠️ Projeto Java - Vários Exercícios](https://github.com/CosmoSouza/-Projetos_Java)
