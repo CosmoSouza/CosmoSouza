@@ -13,6 +13,7 @@
 [![Portfólio](https://img.shields.io/badge/Portfólio-1e90ff?style=for-the-badge)](https://github.com/CosmoSouza)
 [![UDEMY](https://img.shields.io/badge/UDEMY-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/lucas-cosmo-de-souza/)
 [![Vitrine Dev](https://img.shields.io/badge/VitrineDev-00c853?style=for-the-badge)](https://vitrine.dev/CosmoSouza)
+[![Unisociesc](https://img.shields.io/badge/UNISOCIESC-00458A?style=for-the-badge)](https://www.unisociesc.com.br/)
 
 ---
 
