@@ -26,7 +26,7 @@
 ### 📚 O que estou estudando:
 
 - 💡 Lógica de programação  
-- ☕ Java e C++  
+- ☕ Java   
 - 🧠 Estruturas de dados e algoritmos  
 - 🌐 Spring Boot  
 - 🧪 Testes com JUnit  
